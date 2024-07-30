@@ -1,0 +1,8 @@
+{
+  "name": "18+ providers repository",
+  "description": "18+ Plugin Repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/MengFree/cloudstream-repo/builds/plugins.json"
+  ]
+}
